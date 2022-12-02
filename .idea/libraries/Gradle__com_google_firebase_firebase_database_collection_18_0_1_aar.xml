@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database-collection:18.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7eddcc368f6ef2b5434c277b9c9f34a2/transformed/firebase-database-collection-18.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d0e11c1f1e67a5e1197dc1a621af5aa/transformed/firebase-database-collection-18.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5118a85cd2a6a8122c9e1d47198cf117/transformed/firebase-database-collection-18.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a00fd7305de5fb49793b64ba9747885/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a00fd7305de5fb49793b64ba9747885/transformed/firebase-database-collection-18.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7a00fd7305de5fb49793b64ba9747885/transformed/firebase-database-collection-18.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-collection/18.0.1/641c828ba56aad8e1c54d66e4d7c63db27c19033/firebase-database-collection-18.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-collection/18.0.1/75d14361b174bc454c47039dd531985b55e6c376/firebase-database-collection-18.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-location:20.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0861db6b0559cde7da8dafab858f5d8d/transformed/play-services-location-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8bd3e035b341f38154857d357a427743/transformed/play-services-location-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9499d07082b63395fc872a885cc6dc83/transformed/play-services-location-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b11b8aafab86154d22245fadbd43f6cb/transformed/play-services-location-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b11b8aafab86154d22245fadbd43f6cb/transformed/play-services-location-20.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b11b8aafab86154d22245fadbd43f6cb/transformed/play-services-location-20.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-location/20.0.0/cd6ff4a2f2a99f4200e0134f156c0184f6b9467a/play-services-location-20.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
